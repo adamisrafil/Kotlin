@@ -1,0 +1,4 @@
+#Wed Jul 24 12:08:59 EDT 2019
+base.0=D\:\\GitHub\\shock_app_kotlin\\CounterShockKotlin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
